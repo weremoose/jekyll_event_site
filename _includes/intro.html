@@ -8,25 +8,16 @@
 				{% if page.intro_event_details %}
 				<h3 class="wow bounceIn" data-wow-delay="0.9s">{{ page.intro_event_details }}</h3>
 				{% endif %}
-				{% assign intro_event_name_is_not_empty = page.page.intro_event_name | is_not_empty %}
-				{% if intro_event_name_is_not_empty %}
+				{% if page.intro_event_name %}
 				<h1 class="wow fadeInUp" data-wow-delay="1.6s">{{ page.intro_event_name }}</h1>
 				{% endif %}
-				{% assign intro_event_button_1_is_not_empty = page.page.intro_event_button_1 | is_not_empty %}
-				{% if intro_event_button_1_is_not_empty %}
+				{% if intro_event_button_1 %}
 				<a href="#overview" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="2.3s">{{ page.intro_event_button_1 }}</a>
 				{% endif %}
-								{% assign intro_event_button_2_is_not_empty = page.page.intro_event_button_2 | is_not_empty %}
-				{% if intro_event_button_2_is_not_empty %}
+				{% if intro_event_button_2 %}
 				<a href="#register" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2.3s">{{ page.intro_event_button_2 }}</a>
 				{% endif %}
 			</div>
 		</div>
 	</div>
 </section>
-
-{% assign img_path_is_not_empty = page.img_path | is_not_empty %}
-{% if img_path_is_not_empty %}
-<div class="post-thumbnail">
-	<img src="{{ page.img_path | relative_url }}" alt="{{ page.title }}" />
-</div><!-- .post-thumbnail -->
