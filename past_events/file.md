@@ -1,17 +1,16 @@
 ---
 layout: default
-permalink: "/2019/"
-intro_event_name: anti-symposium 2019
-intro_event_details: July 04 - 07 in Uddebo, SE
+permalink: "/2018/"
+intro_event_name: anti-symposium 2018
+intro_event_details: July 19 - 22 in Uddebo, SE
 intro_event_button_1: LEARN MORE
 intro_event_button_2: REGISTER
 intro_event_background: 
 overview_header: Here is a header
 overview_details: The International Encounters of Community and Environmental Sociology
-  will take place this year, once again, in the rural Swedish village of Uddebo from
-  the 4th through the 7th of July. This meeting  will serve as a site for participants
-  to exchange and share their experiences and to discuss the future of independent
-  cultural frameworks.
+  will be held from 19th to 22nd of July in Uddebo, Sweden and will serve as a meeting
+  place for the exchange of experiences of/for participants. The objective will be
+  to discuss the future of independent cultural frameworks.
 overview_image: images/overview-img.jpg
 participant_1_img: images/carlota_mir.jpg
 participant_1_name: Carlota Mir
