@@ -27,5 +27,6 @@ sponsor_1_url: http://www.konstnarsnamnden.se/default.aspx?id=11328
 sponsor_2: images/spanish_embassy_stockholm.png
 sponsor_2_url: http://www.exteriores.gob.es/Embajadas/ESTOCOLMO/en/Pages/inicio.aspx
 title: ''
+published: false
 
 ---
