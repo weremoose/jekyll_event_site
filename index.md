@@ -10,6 +10,7 @@ overview_header: The International Encounters of Community and Environmental Soc
 overview_details: An annual gathering that serves as a meeting place for the exchange
   of experiences of the participants with the local community where the objective
   is to discuss the future of independent cultural frameworks.
-venue_map_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2145.133829626117!2d13.258032815998122!3d57.47605658104915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46506544ea0d7421%3A0x7e71fd9d71d8830a!2sUllasj%C3%B6gatan%207B%2C%20514%2092%20Uddebo!5e0!3m2!1sen!2sse!4v1579089490398!5m2!1sen!2sse
+venue_map_url: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2184.7073915256124!2d16.68729501535462!3d56.79949181824684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46f875de358b6575%3A0x371e8501f4e5ed2a!2sS%C3%A4ttrav%C3%A4gen%2043%2C%20387%2093%20Borgholm%2C%20Sweden!5e0!3m2!1sen!2skh!4v1579774976844!5m2!1sen!2skh"
+  width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ---
