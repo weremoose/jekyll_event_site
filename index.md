@@ -4,7 +4,7 @@ intro_event_name: anti-symposium 2020
 intro_event_details: August 26 - 30 in Öland, Sweden
 intro_event_button_1: READ MORE
 intro_event_button_2: REGISTER
-intro_event_background: 
+intro_event_background: ../images/theblacksilo_venue_2020.jpeg
 overview_header: The International Encounters of Community and Environmental Sociology
   (IECES)
 overview_details: An annual gathering that serves as a meeting place for the exchange
