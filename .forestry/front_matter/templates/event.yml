@@ -78,22 +78,24 @@ fields:
   label: participant_5_text
 - type: text
   name: video_link
-  label: video_link
+  label: Embed link for video
+  description: Copy paste only the link from the embed code
 - type: text
   name: venue_location
-  label: venue_location
+  label: Venue location
 - type: textarea
   name: venue_map_url
-  label: venue_map_url
+  label: Map URL to embed
+  description: Copy paste only the link from the embed code for the map.
 - type: file
   name: sponsor_1
-  label: sponsor_1
+  label: Sponsor 1
 - type: text
   name: sponsor_1_url
-  label: sponsor_1_url
+  label: Link to sponsor 1
 - type: file
   name: sponsor_2
-  label: sponsor_2
+  label: Sponsor 2
 - type: text
   name: sponsor_2_url
-  label: sponsor_2_url
+  label: Link to sponsor 2
