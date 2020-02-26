@@ -1,19 +1,25 @@
 ---
-label: Event
+label: Event page
 hide_body: false
 fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: permalink
-  label: permalink
+  label: year
+  description: This will be used as the link
+  config:
+    min: '4'
+    max: '4'
 - type: text
   name: intro_event_name
-  label: intro_event_name
+  label: Event heading
 - type: text
   name: intro_event_details
-  label: intro_event_details
+  label: Event dates and details
+  description: Used on the top section under the heading
 - type: text
   name: intro_event_button_1
   label: intro_event_button_1
@@ -22,7 +28,9 @@ fields:
   label: intro_event_button_2
 - type: file
   name: intro_event_background
-  label: intro_event_background
+  label: Main background image
+  config:
+    maxSize: ''
 - type: file
   name: participant_1_img
   label: participant_1_img
