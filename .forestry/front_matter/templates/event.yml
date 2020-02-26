@@ -8,8 +8,8 @@ fields:
   hidden: true
 - type: text
   name: permalink
-  label: year
-  description: This will be used as the link
+  label: Year
+  description: This will be used as the link - leave blank for current year
   config:
     min: '4'
     max: '4'
