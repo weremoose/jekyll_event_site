@@ -99,3 +99,5 @@ fields:
 - type: text
   name: sponsor_2_url
   label: Link to sponsor 2
+pages:
+- 2018.md
