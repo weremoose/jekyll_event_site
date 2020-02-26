@@ -11,8 +11,8 @@ fields:
   label: Year
   description: This will be used as the link - leave blank for current year
   config:
-    min: '4'
-    max: '4'
+    min: ''
+    max: ''
 - type: text
   name: intro_event_name
   label: Event heading
