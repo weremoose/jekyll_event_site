@@ -7,13 +7,6 @@ fields:
   label: layout
   hidden: true
 - type: text
-  name: permalink
-  label: Year
-  description: This will be used as the link - leave blank for current year
-  config:
-    min: ''
-    max: ''
-- type: text
   name: intro_event_name
   label: Event heading
 - type: text
