@@ -4,7 +4,7 @@ intro_event_name: anti-symposium 2020
 intro_event_details: August 26 - 30 in Öland, Sweden
 intro_event_button_1: READ MORE
 intro_event_button_2: REGISTER
-intro_event_background: "/images/cropped-cows-7.jpg"
+intro_event_background: "/images/cropped-cows-7-1.jpg"
 venue_map_url: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4369.415111479194!2d16.689484!3d56.799489!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46f875de358b6575%3A0x371e8501f4e5ed2a!2sS%C3%A4ttrav%C3%A4gen%2043%2C%20387%2093%20Borgholm%2C%20Sweden!5e0!3m2!1sen!2skh!4v1579775234555!5m2!1sen!2skh
 participant_1_img: ''
 participant_1_name: ''
