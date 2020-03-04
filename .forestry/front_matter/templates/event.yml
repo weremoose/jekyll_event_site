@@ -85,6 +85,15 @@ fields:
   config:
     required: false
   label: participant_6_name
+- name: participant_6_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: participant_6_text
 - type: text
   name: video_link
   label: Embed link for video
@@ -118,15 +127,6 @@ fields:
   config:
     required: false
   label: link to sponsor 3
-- name: participant_6_text
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: participant_6_text
 pages:
 - 2018.md
 - 2019.md
