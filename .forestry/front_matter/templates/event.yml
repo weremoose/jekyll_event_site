@@ -74,6 +74,7 @@ fields:
   config:
     maxSize: 250
   label: participants_6_img
+  hidden: false
 - name: participant_6_name
   type: text
   config:
