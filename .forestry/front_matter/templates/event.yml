@@ -69,6 +69,16 @@ fields:
 - type: textarea
   name: participant_5_text
   label: participant_5_text
+- name: participants_6_img
+  type: file
+  config:
+    maxSize: 250
+  label: participants_6_img
+- name: participant_6_name
+  type: text
+  config:
+    required: false
+  label: participant_6_name
 - type: text
   name: video_link
   label: Embed link for video
@@ -92,6 +102,11 @@ fields:
 - type: text
   name: sponsor_2_url
   label: Link to sponsor 2
+- name: participant_6_text
+  type: text
+  config:
+    required: false
+  label: participant_6_text
 pages:
 - 2018.md
 - 2019.md
