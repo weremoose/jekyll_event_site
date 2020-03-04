@@ -79,6 +79,11 @@ fields:
   config:
     required: false
   label: participant_6_name
+- name: participant_6_text
+  type: text
+  config:
+    required: false
+  label: participant_6_text
 - type: text
   name: video_link
   label: Embed link for video
@@ -102,11 +107,6 @@ fields:
 - type: text
   name: sponsor_2_url
   label: Link to sponsor 2
-- name: participant_6_text
-  type: text
-  config:
-    required: false
-  label: participant_6_text
 pages:
 - 2018.md
 - 2019.md
