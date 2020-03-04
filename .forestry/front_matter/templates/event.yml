@@ -108,6 +108,16 @@ fields:
 - type: text
   name: sponsor_2_url
   label: Link to sponsor 2
+- name: sponsor_3
+  type: file
+  config:
+    maxSize: 250
+  label: Sponsor 3
+- name: link_to_sponsor_3
+  type: text
+  config:
+    required: false
+  label: link to sponsor 3
 pages:
 - 2018.md
 - 2019.md
