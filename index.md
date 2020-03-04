@@ -29,8 +29,6 @@ sponsor_2: ''
 sponsor_2_url: ''
 
 ---
-## The International Encounters of Community and Environmental Sociology (IECES)
+## The International Encounters of Community and Environmental Sociology 
 
 An annual gathering that serves as a meeting place for the exchange of experiences of the participants with the local community where the objective is to discuss the future of independent cultural frameworks.
-
-![](/images/andrea_5x5.jpg)
