@@ -14,7 +14,7 @@
 			<!-- Testimonial Owl Carousel section
 			================================================== -->
 			<div id="owl-speakers" class="owl-carousel">
-
+				{% if page.participant_1_name %}
 				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.9s">
 					<div class="speakers-wrapper">
 						<img src="{{ page.participant_1_img | relative_url  }}" class="img-responsive" alt="speakers">
@@ -24,7 +24,8 @@
 							</div>
 					</div>
 				</div>
-
+				{% endif %}
+				{% if page.participant_2_name %}
 				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
 					<div class="speakers-wrapper">
 						<img src="{{ page.participant_2_img | relative_url  }}" class="img-responsive" alt="speakers">
@@ -34,7 +35,8 @@
 							</div>
 					</div>
 				</div>
-
+				{% endif %}
+				{% if page.participant_3_name %}
 				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.9s">
 					<div class="speakers-wrapper">
 						<img src="{{ page.participant_3_img | relative_url  }}" class="img-responsive" alt="speakers">
@@ -44,7 +46,7 @@
 							</div>
 					</div>
 				</div>
-
+				{% if page.participant_4_name %}
 				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
 					<div class="speakers-wrapper">
 						<img src="{{ page.participant_4_img | relative_url  }}" class="img-responsive" alt="speakers">
@@ -54,13 +56,146 @@
 							</div>
 					</div>
 				</div>
-
+				{% endif %}
+				{% if page.participant_5_name %}
 				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
 					<div class="speakers-wrapper">
 						<img src="{{ page.participant_5_img | relative_url  }}" class="img-responsive" alt="speakers">
 							<div class="speakers-thumb">
 								<h3>{{ page.participant_5_name }}</h3>
 								<h6>{{ page.participant_5_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_6_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_6_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_6_name }}</h3>
+								<h6>{{ page.participant_6_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_7_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_7_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_7_name }}</h3>
+								<h6>{{ page.participant_7_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_8_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_8_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_8_name }}</h3>
+								<h6>{{ page.participant_8_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_9_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_9_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_9_name }}</h3>
+								<h6>{{ page.participant_9_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_10_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_10_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_10_name }}</h3>
+								<h6>{{ page.participant_10_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_11_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_11_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_11_name }}</h3>
+								<h6>{{ page.participant_11_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_12_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_12_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_12_name }}</h3>
+								<h6>{{ page.participant_12_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_13_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_13_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_13_name }}</h3>
+								<h6>{{ page.participant_13_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_14_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_14_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_14_name }}</h3>
+								<h6>{{ page.participant_14_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_15_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_15_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_15_name }}</h3>
+								<h6>{{ page.participant_15_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_16_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_16_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_16_name }}</h3>
+								<h6>{{ page.participant_16_text }}</h6>
+							</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if page.participant_17_name %}
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.6s">
+					<div class="speakers-wrapper">
+						<img src="{{ page.participant_17_img | relative_url  }}" class="img-responsive" alt="speakers">
+							<div class="speakers-thumb">
+								<h3>{{ page.participant_17_name }}</h3>
+								<h6>{{ page.participant_17_text }}</h6>
 							</div>
 					</div>
 				</div>
