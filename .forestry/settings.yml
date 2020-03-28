@@ -9,9 +9,9 @@ sections:
   create: all
   new_doc_ext: html
 upload_dir: images
-public_path: "/images"
+public_path: https://anti-symposium.org/images
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
