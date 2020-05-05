@@ -74,11 +74,11 @@ fields:
 - type: textarea
   name: participant_5_text
   label: participant_5_text
-- name: participants_6_img
+- name: participant_6_img
   type: file
   config:
-    maxSize: 250
-  label: participants_6_img
+    maxSize: 
+  label: participant_6_img
   hidden: false
 - name: participant_6_name
   type: text
@@ -120,7 +120,7 @@ fields:
 - name: sponsor_3
   type: file
   config:
-    maxSize: 250
+    maxSize: 
   label: Sponsor 3
 - name: link_to_sponsor_3
   type: text
