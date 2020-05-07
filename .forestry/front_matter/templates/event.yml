@@ -133,15 +133,24 @@ fields:
       format: markdown
   label: participant_8_text
 - name: participant_9_img
-  type: text
-  config:
-    required: false
-  label: participant_9_img
-- name: participant_9_name
   type: file
   config:
     maxSize: 
+  label: participant_9_img
+- name: participant_9_name
+  type: text
+  config:
+    required: false
   label: participant_9_name
+- name: participant_9_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: participant_9_text
 - type: text
   name: video_link
   label: Embed link for video
@@ -175,15 +184,6 @@ fields:
   config:
     required: false
   label: link to sponsor 3
-- name: participant_9_text
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: participant_9_text
 pages:
 - 2018.md
 - 2019.md
