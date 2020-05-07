@@ -157,6 +157,25 @@ fields:
     schema:
       format: markdown
   label: participant_9_text
+- name: participant_10_img
+  type: file
+  config:
+    maxSize: 64
+  label: participant_10_img
+- name: participant_10_name
+  type: text
+  config:
+    required: false
+  label: participant_10_name
+- name: participant_10_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: participant_10_text
 - type: text
   name: video_link
   label: Embed link for video
