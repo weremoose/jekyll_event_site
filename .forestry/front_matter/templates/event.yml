@@ -113,11 +113,11 @@ fields:
     schema:
       format: markdown
   label: participant_7_text
-- name: participants_8_img
+- name: participant_8_img
   type: file
   config:
     maxSize: 
-  label: participants_8_img
+  label: participant_8_img
 - name: participant_8_name
   type: text
   config:
