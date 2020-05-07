@@ -33,7 +33,7 @@ fields:
 - type: textarea
   name: participant_1_text
   label: participant_1_text
-- name: link_to_participant_1
+- name: participant_1_url
   type: text
   config:
     required: false
