@@ -94,11 +94,11 @@ fields:
     schema:
       format: markdown
   label: participant_6_text
-- name: participants_7_jpg
+- name: participants_7_img
   type: file
   config:
-    maxSize: 64
-  label: participants_7_jpg
+    maxSize: 0
+  label: participants_7_img
 - name: participant_7_name
   type: text
   config:
@@ -113,11 +113,11 @@ fields:
     schema:
       format: markdown
   label: participant_7_text
-- name: participants_8_jpg
+- name: participants_8_img
   type: file
   config:
-    maxSize: 64
-  label: participants_8_jpg
+    maxSize: 
+  label: participants_8_img
 - name: participant_8_name
   type: text
   config:
@@ -132,6 +132,16 @@ fields:
     schema:
       format: markdown
   label: participant_8_text
+- name: participant_9_img
+  type: text
+  config:
+    required: false
+  label: participant_9_img
+- name: participant_9_name
+  type: file
+  config:
+    maxSize: 
+  label: participant_9_name
 - type: text
   name: video_link
   label: Embed link for video
@@ -165,6 +175,15 @@ fields:
   config:
     required: false
   label: link to sponsor 3
+- name: participant_9_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: participant_9_text
 pages:
 - 2018.md
 - 2019.md
