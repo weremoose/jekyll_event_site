@@ -27,8 +27,24 @@ sponsor_1: ''
 sponsor_1_url: ''
 sponsor_2: ''
 sponsor_2_url: ''
+link_to_participant_1: ''
+participant_6_name: ''
+participant_6_text: ''
+sponsor_3: ''
+link_to_sponsor_3: ''
+participant_6_img: ''
+participants_7_jpg: ''
+participant_7_name: ''
+participant_7_text: ''
+participants_8_jpg: ''
+participant_8_name: ''
+participant_8_text: ''
 
 ---
-## The International Encounters of Community and Environmental Sociology 
+## The International Encounters of Community and Environmental Sociology
 
 An annual gathering that serves as a meeting place for the exchange of experiences of the participants with the local community where the objective is to discuss the future of independent cultural frameworks.
+
+The International Encounters of Community and Environmental Sociology will take place this year in the rural Swedish island Öland from the 26th through the 30th of August 2020.
+
+While the first 2 editions were located in Udebbo, in collaboration with Future Utopia Community key, in the third edition we remain in Sweden but move further to Öland, more concretely in the outskirts of Borgholm in collaboration with Svarta Silons Ateljéer/Black Silo Studios of The Mirror Institution. The third edition continues to develop, as in the previous one, as an interdisciplinary space of conversation on how to create new approaches in cultural policies based on the models of the auto-sustainable infrastructures. The focus of the event's program will consist of non-activities, experiences, and participation in the local and social milieu of Öland.
