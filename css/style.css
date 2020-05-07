@@ -210,7 +210,7 @@ footer {
     transition: all 0.4s ease-in-out;
 }
 
-.custom-navbar .nav li a:hover {
+.navbar-brand .custom-navbar .nav li a:hover {
     background: transparent;
     color: #66ccff;
 }
