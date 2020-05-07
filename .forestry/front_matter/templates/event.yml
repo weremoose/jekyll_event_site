@@ -48,6 +48,11 @@ fields:
 - type: text
   name: participant_2_text
   label: participant_2_text
+- name: link_to_participant_2
+  type: text
+  config:
+    required: false
+  label: link to participant 2
 - type: file
   name: participant_3_img
   label: participant_3_img
