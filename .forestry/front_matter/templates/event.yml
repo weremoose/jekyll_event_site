@@ -38,6 +38,7 @@ fields:
   config:
     required: false
   label: link to participant 1
+  hidden: true
 - type: file
   name: participant_2_img
   label: participant_2_img
